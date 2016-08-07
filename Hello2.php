@@ -2,7 +2,7 @@
 <body>
 <title> Hello World </title>
 <?php
-echo "Hello World, This is my GITHUB Project";
+echo "Hello World, t";
 ?>
 </body>
 </html>
